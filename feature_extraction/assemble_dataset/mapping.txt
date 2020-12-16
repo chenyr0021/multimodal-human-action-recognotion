@@ -1,0 +1,7 @@
+0 assemble_nose
+1 assemble_tail
+2 assemble_wings
+3 assemble_wheels
+4 background
+5 action_start
+6 action_end
