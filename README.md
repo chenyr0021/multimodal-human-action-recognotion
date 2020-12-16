@@ -15,7 +15,9 @@ This work is mainly composed of 3 parts:
 # Tested environment
 
 Ubuntu 16.04
+
 Pytorch 
+
 CUDA
 
 # Data collection
@@ -58,7 +60,7 @@ When labelling data, you can fill the 3rd column in annotation file with class n
 
 `util.py` is used to divide train/test set.
 
-
+A example for dataset can be found in `DLServer: 219.223.251.155:/home/backup/data_cyr/`.
 
 # Feature extraction
 
